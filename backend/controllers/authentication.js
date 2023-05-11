@@ -51,7 +51,7 @@ router.get('/profile', async (req, res) => {
 })
 
 
-  console.log(user)
-})
-
+/*  console.log(user)
+  })
+*/
 module.exports = router
